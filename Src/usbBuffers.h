@@ -1,0 +1,2 @@
+#define APP_RX_DATA_SIZE  1
+#define APP_TX_DATA_SIZE  2800
